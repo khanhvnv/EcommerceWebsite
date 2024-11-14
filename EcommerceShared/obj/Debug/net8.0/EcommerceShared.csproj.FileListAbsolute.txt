@@ -1,0 +1,11 @@
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\bin\Debug\net8.0\EcommerceShared.deps.json
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\bin\Debug\net8.0\EcommerceShared.dll
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\bin\Debug\net8.0\EcommerceShared.pdb
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.AssemblyInfoInputs.cache
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.AssemblyInfo.cs
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.csproj.CoreCompileInputs.cache
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.dll
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\refint\EcommerceShared.dll
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\EcommerceShared.pdb
+C:\Data-cKhanh\.NET\Challenges\EcommerceSolution\EcommerceShared\obj\Debug\net8.0\ref\EcommerceShared.dll
